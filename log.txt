@@ -1,0 +1,6 @@
+2026-05-18 13:23:55 | https://netflix.com | LOW RISK - Probably safe | Score: 0
+2026-05-18 13:25:17 | http://bank-login-secure-account-update-verification-alert.com | HIGH RISK - Likely phishing | Score: 45
+2026-05-18 13:26:54 | http://bank-login-secure-account-update-verification-alert.com | HIGH RISK - Likely phishing | Score: 45
+2026-05-18 13:27:00 | http://bank-login-secure-account-update-verification-alert.com | HIGH RISK - Likely phishing | Score: 45
+2026-05-19 11:41:55 | https://twitter.com | LOW RISK - Probably safe | Score: 0
+2026-05-19 11:44:46 | http://wwww.buyme-email.com | MEDIUM RISK - Suspicious | Score: 20

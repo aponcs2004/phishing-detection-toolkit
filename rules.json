@@ -1,0 +1,30 @@
+[
+  {
+    "name": "HTTP Protocol",
+    "type": "protocol",
+    "value": "http",
+    "score": 20,
+    "message": "Uses HTTP instead of HTTPS"
+  },
+  {
+    "name": "Suspicious Keywords",
+    "type": "keyword",
+    "keywords": ["login", "secure", "bank", "verify", "update"],
+    "score": 15,
+    "message": "Contains suspicious keyword"
+  },
+  {
+    "name": "Long URL",
+    "type": "length",
+    "threshold": 50,
+    "score": 10,
+    "message": "URL is unusually long"
+  },
+  {
+    "name": "Too Many Subdomains",
+    "type": "subdomain",
+    "threshold": 2,
+    "score": 10,
+    "message": "Too many subdomains"
+  }
+]
